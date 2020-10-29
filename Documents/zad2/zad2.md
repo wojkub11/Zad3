@@ -135,3 +135,40 @@ Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet za
 podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki
 opis w języku polskim.
 
+
+
+## Definiowanie nagłówków
+
+
+
+W tym celu używamy znaku kratki
+
+Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
+
+
+
+![3_1](C:\Users\Wojci\Documents\zad2\zad2.assets\3_1.jpg)
+
+
+
+
+
+## Definiowanie list
+
+
+
+![4](C:\Users\Wojci\Documents\zad2\zad2.assets\4.jpg)
+
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
+Listy nienumerowane definiujemy znakami: *,+,-
+
+
+
+
+
+## Wyróżnianie tekstu
+
+
+
+![5](C:\Users\Wojci\Documents\zad2\zad2.assets\5.jpg)
+
