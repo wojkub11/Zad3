@@ -86,3 +86,52 @@ Przykład kodu XML - fragment dokumentu SVG (Scalar Vector Graphics)
 
 ![3](C:\Users\Wojci\Documents\zad2\zad2.assets\3.jpg)
 
+W tym przypadku mamy np. znacznik np. \<circle> opisujący parametry koła i który może być
+właściwie zinterpretowany przez dedykowaną aplikację (np. przeglądarki www).
+
+Jako ciekawostkę można podać fakt, że również pakiet MS Office wykorzystuje format XML do
+przechowywania informacji o dodatkowych parametrach formatowania danych. Na przykład pliki z
+rozszerzeniem docx, to nic innego jak spakowane algorytmem zip katalogi z plikami xml.
+
+<span style="color: forestgreen;">$unzip</span> <span style="color: purple;">**-l** **test**</span>.docx
+Archive: <span style="color: purple;">**test**</span>.docx
+Length <span style="color: orchid;">**Date**</span> **Time** Name
+\--------- ---------- ----- ----
+573 2020-10-11 18:20 _rels/.rels
+731 2020-10-11 18:20 docProps/core.xml
+508 2020-10-11 18:20 docProps/app.xml
+531 2020-10-11 18:20 word/_rels/document.xml.rels
+1421 2020-10-11 18:20 word/document.xml
+2429 2020-10-11 18:20 word/styles.xml
+853 2020-10-11 18:20 word/fontTable.xml
+241 2020-10-11 18:20 word/settings.xml
+1374 2020-10-11 18:20 [Content_Types].xml
+
+
+
+<div style="text-align:justify">Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składnią i dlatego do ich edycji
+wymagają najczęściej dedykowanych narzędzi w postaci specjalizowanych edytorów. By
+    wyeliminować powyższą niedogodność powstał <b>Markdown</b> - uproszczony język znaczników
+służący do formatowania dokumentów tekstowych (bez konieczności używania specjalizowanych
+narzędzi). Dokumenty w tym formacie można bardzo łatwo konwertować do wielu innych
+formatów: np. html, pdf, ps (postscript), epub, xml i wiele innych. Format ten jest powszechnie
+używany do tworzenia plików README.md (w projektach open source) i powszechnie
+obsługiwany przez serwery git’a. Język ten został stworzony w 2004 r. a jego twórcami byli John
+Gruber i Aaron Swartz. W kolejnych latach podjęto prace w celu stworzenia standardu rozwiązania
+i tak w 2016 r. opublikowano dokument <u>RFC 7764</u> który zawiera opis kilku odmian tegoż języka:</div>
+
+
+* CommonMark,
+* GitHub Flavored Markdown (GFM),
+* Markdown Extra.
+
+
+
+
+
+# Podstawy składni
+
+Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet zawiera opis
+podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki
+opis w języku polskim.
+
