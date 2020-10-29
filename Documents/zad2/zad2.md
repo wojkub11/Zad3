@@ -172,3 +172,50 @@ Listy nienumerowane definiujemy znakami: *,+,-
 
 ![5](C:\Users\Wojci\Documents\zad2\zad2.assets\5.jpg)
 
+
+
+## Tabele
+
+![6](C:\Users\Wojci\Documents\zad2\zad2.assets\6.jpg)
+
+Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
+
+
+
+
+
+## Odnośniki do zasobów
+
+\[odnośnik do zasobów](www.gazeta.pl)
+\[odnośnik do pliku](LICENSE.md)
+\[odnośnik do kolejnego zasobu][1]
+\[1]: htp://google,com
+
+
+
+## Obrazki
+
+\!\[alt text](htps://server.com/images/icon48.png "Logo 1") – obrazek z zasobów
+internetowych
+\!\[](logo.png) – obraz z lokalnych zasobów
+
+
+
+## Kod źródłowy dla różnych języków programowania
+
+![7](C:\Users\Wojci\Documents\zad2\zad2.assets\7.jpg)
+
+
+
+
+
+## Tworzenie spisu treści na podstawie nagłówków
+
+
+
+![8](C:\Users\Wojci\Documents\zad2\zad2.assets\8.jpg)
+
+
+
+
+
