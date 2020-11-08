@@ -98,3 +98,13 @@ https://fwcdn.pl/video/30588/fstfurious_trlr2_t1.360p.mp4#t=0,5
 9.  Funkmaster Flex feat. Noreaga – Tudunn Tudunn Tudunn (Make U Jump)
 10.  Fat Joe – Hustlin
 11.  Boo and Gotti – Freestyle
+
+## Samochody użyte w filmie
+
+* 1970 Dodge Charger
+* Toyota Supra
+* Nissan GT-R R34
+* Volkswagen Vento
+* Honda Civic
+* Chevrolet Camaro
+* Mitsubishi Eclipse
