@@ -83,3 +83,18 @@ https://fwcdn.pl/video/30588/fstfurious_trlr2_t1.360p.mp4#t=0,5
 | :----------------------------: | :------------------------------------: | :----------------------------: | ---------------------------- |
 |  **szybcy i wściekli 6** 2013  |   **szybcy i wściekli 7**       2015   | **szybcy i wściekli 8**   2017 | **szybcy i wściekli 9** 2021 |
 
+
+
+## Soundtrack
+
+1.  Faith Evans feat. Ja Rule – Good Life Remix
+2.  Caddillac Tah – Pov City Anthem
+3.  Ashanti – When A Man Does Wrong
+4.  Tank feat. Ja Rule – Race Against Time Part 2
+5.  Ja Rule – Furious
+6.  R. Kelly – Take My Time Tonight
+7. . Scarface – Suicide
+8.  Black Child – The Prayer
+9.  Funkmaster Flex feat. Noreaga – Tudunn Tudunn Tudunn (Make U Jump)
+10.  Fat Joe – Hustlin
+11.  Boo and Gotti – Freestyle
