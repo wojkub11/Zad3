@@ -18,3 +18,17 @@ header-includes:
 ## Okładka płyty DVD
 
 ![](pics/example.jpg){ height=80% width=80%}
+
+
+
+## Główne informacje nt. filmu
+
+* **Reżyseria** - *Rob* *Cohen*
+
+* **Scenariusz** - *Gary* *Scott* *Thompson*
+
+* **Gatunek** - *Akcja*
+
+* **Produkcja** - *Niemcy*/*USA*
+* **Premiera** - *18* *czerwca* *2001*(*świat*)
+* **Nagrody** - *Złoty* *popcorn* *oraz* *11* *nominacji*
