@@ -42,3 +42,9 @@ Szybkie, piękne samochody, jeszcze piękniejsze kobiety i mężczyźni jak z ż
 Ci wspaniali twardziele to przede wszystkim Dominic - niepokonany bohater wyścigów, przeprowadzanych nielegalnie pod osłoną nocy, jego buntowniczy kumple i piękny blondasek Brian, który usiłuje wślizgnąć się do tego zamkniętego grona. Otaczają ich wspaniałe kobiety: Letty -'ostra' dziewczyna Dominica i Mia, siostra tegoż, której wspomniany blond-heros głęboko zapada w serce. Po wielu podejściach Brianowi udaje się podbić także Dominica, którego ratuje przed aresztowaniem i zadziwia swoją umiejętnością zabawy za kierownicą.
 
 Wszystkich łączą samochodowe pościgi - prawdziwy teatr ulicy, urastający do rangi rytualnych zgromadzeń, przyciągających tłumy entuzjastów.
+
+## Zwiastun
+
+![](pics/2.jpg){ height=80% width=80%}
+
+https://fwcdn.pl/video/30588/fstfurious_trlr2_t1.360p.mp4#t=0,5
