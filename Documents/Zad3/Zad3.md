@@ -48,3 +48,10 @@ Wszystkich łączą samochodowe pościgi - prawdziwy teatr ulicy, urastający do
 ![](pics/2.jpg){ height=100% width=100%}
 
 https://fwcdn.pl/video/30588/fstfurious_trlr2_t1.360p.mp4#t=0,5
+
+
+
+## Obsada filmu (główni bohaterowie)
+
+![](pics/3.jpg){ height=100% width=100%}
+
