@@ -74,3 +74,12 @@ https://fwcdn.pl/video/30588/fstfurious_trlr2_t1.360p.mp4#t=0,5
 | **budżet**      |               $38 000 000               | **tytuł** **oryg**. | The Fast and the Furious |
 | **dystrybucja** | United International Pictures Sp z o.o. | na podstawie        |         Ken Li "Racer X" |
 | **studio**      |           Universal Pictures            | **Ranking**         |                     #445 |
+
+
+
+## Inne filmy serii Szybkich i wściekłych
+
+| **Za szybcy za wściekli** 2003 | **szybcy i wściekli tokio drift** 2006 |   **szybko i wściekle** 2009   | **szybcy i wściekli 5** 2011 |
+| :----------------------------: | :------------------------------------: | :----------------------------: | ---------------------------- |
+|  **szybcy i wściekli 6** 2013  |   **szybcy i wściekli 7**       2015   | **szybcy i wściekli 8**   2017 | **szybcy i wściekli 9** 2021 |
+
