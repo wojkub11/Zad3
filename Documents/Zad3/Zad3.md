@@ -45,6 +45,6 @@ Wszystkich łączą samochodowe pościgi - prawdziwy teatr ulicy, urastający do
 
 ## Zwiastun
 
-![](pics/2.jpg){ height=80% width=80%}
+![](pics/2.jpg){ height=100% width=100%}
 
 https://fwcdn.pl/video/30588/fstfurious_trlr2_t1.360p.mp4#t=0,5
