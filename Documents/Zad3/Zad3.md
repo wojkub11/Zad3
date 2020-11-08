@@ -55,3 +55,12 @@ https://fwcdn.pl/video/30588/fstfurious_trlr2_t1.360p.mp4#t=0,5
 
 ![](pics/3.jpg){ height=100% width=100%}
 
+
+
+## Ciekawostki (błędy w filmie)
+
+1. Podczas końcowej sceny, w której Diesel się ściga z Walkerem, kaskader zastępujący Vin Diesela ma na głowie kask. W tym samym ujęciu, samochód prowadzony przez Paula Walkera ma widoczne stalowe wzmocnienia, których nie było na żadnym z wcześniejszych ujęć.
+2. W scenie, gdy po raz ostatni porwana zostaje ciężarówka, Hondą Civic, która się rozbija, jedzie dziewczyna Dominica. Przed uderzeniem auta, widać, że nie ma w nim klatki bezpieczeństwa, która pojawia się chwilę później.
+3. Na imprezie, gdy w jednym ujęciu Brian ociera szyjkę butelki z piwem, widać, że w kolejnym powtarza tą czynność.
+4. Gdy ścigają się dwa motocykle i Supra, widzimy, że jeden z motocyklistów w ręku ma broń. Chwilę później mężczyzna rozbijając się trzyma obie ręce na kierownicy, a broń gdzieś znika.
+5. W końcowej scenie, gdy widzimy trzy Hondy Civic, spojler na samochodzie Dominica jest całkowicie inny niż na początku.
