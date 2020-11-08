@@ -32,3 +32,13 @@ header-includes:
 * **Produkcja** - *Niemcy*/*USA*
 * **Premiera** - *18* *czerwca* *2001*(*świat*)
 * **Nagrody** - *Złoty* *popcorn* *oraz* *11* *nominacji*
+
+
+
+## Recenzja filmu
+
+Szybkie, piękne samochody, jeszcze piękniejsze kobiety i mężczyźni jak z żurnala - to bohaterowie filmu "Szybcy i wściekli". Wszystko okraszone emocjami wyścigów i działalności na pograniczu prawa lub raczej daleko poza nim.
+
+Ci wspaniali twardziele to przede wszystkim Dominic - niepokonany bohater wyścigów, przeprowadzanych nielegalnie pod osłoną nocy, jego buntowniczy kumple i piękny blondasek Brian, który usiłuje wślizgnąć się do tego zamkniętego grona. Otaczają ich wspaniałe kobiety: Letty -'ostra' dziewczyna Dominica i Mia, siostra tegoż, której wspomniany blond-heros głęboko zapada w serce. Po wielu podejściach Brianowi udaje się podbić także Dominica, którego ratuje przed aresztowaniem i zadziwia swoją umiejętnością zabawy za kierownicą.
+
+Wszystkich łączą samochodowe pościgi - prawdziwy teatr ulicy, urastający do rangi rytualnych zgromadzeń, przyciągających tłumy entuzjastów.
