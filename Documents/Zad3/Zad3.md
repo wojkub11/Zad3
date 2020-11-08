@@ -64,3 +64,13 @@ https://fwcdn.pl/video/30588/fstfurious_trlr2_t1.360p.mp4#t=0,5
 3. Na imprezie, gdy w jednym ujęciu Brian ociera szyjkę butelki z piwem, widać, że w kolejnym powtarza tą czynność.
 4. Gdy ścigają się dwa motocykle i Supra, widzimy, że jeden z motocyklistów w ręku ma broń. Chwilę później mężczyzna rozbijając się trzyma obie ręce na kierownicy, a broń gdzieś znika.
 5. W końcowej scenie, gdy widzimy trzy Hondy Civic, spojler na samochodzie Dominica jest całkowicie inny niż na początku.
+
+
+
+## Dodatkowe informacje
+
+| Boxoffice       |         $207 283 925 na świecie         | data produkcji      |                     2001 |
+| --------------- | :-------------------------------------: | ------------------- | -----------------------: |
+| **budżet**      |               $38 000 000               | **tytuł** **oryg**. | The Fast and the Furious |
+| **dystrybucja** | United International Pictures Sp z o.o. | na podstawie        |         Ken Li "Racer X" |
+| **studio**      |           Universal Pictures            | **Ranking**         |                     #445 |
